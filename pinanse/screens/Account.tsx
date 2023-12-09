@@ -57,7 +57,7 @@ export default function Account() {
                     ('');
                   }}></IconButton>
               }
-              placeholder="Meherab"
+              placeholder="Alamin"
             />
           </FormControl>
           <FormControl>
@@ -83,7 +83,7 @@ export default function Account() {
                     ('');
                   }}></IconButton>
               }
-              placeholder="Hossain"
+              placeholder="Khan"
             />
           </FormControl>
           <FormControl>
@@ -109,7 +109,7 @@ export default function Account() {
                     ('');
                   }}></IconButton>
               }
-              placeholder="Meherab788"
+              placeholder="alamin788"
             />
           </FormControl>
           <FormControl>
@@ -135,7 +135,7 @@ export default function Account() {
                     ('');
                   }}></IconButton>
               }
-              placeholder="Meherab234"
+              placeholder="Alamin234"
             />
           </FormControl>
         </VStack>
